@@ -1,4 +1,16 @@
-## Hi there 👋
+## 👋 Hi
+
+I'm an IT student and junior Python backend developer.
+
+### 🔧 Interests
+- Backend development
+- Networking & infrastructure
+- Cybersecurity
+- Self-hosted systems
+
+### 🚀 Projects
+- Production Telegram game bot (private, monetized)
+- Homelab & self-hosted infrastructure
 
 <!--
 **ZXCurban/ZXCurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
