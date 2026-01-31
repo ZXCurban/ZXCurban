@@ -1,10 +1,18 @@
-## 👋 About me
+## 👋 Hi! 
 
-Hi! My name is Kurban Dalgatov.
-I'm an IT student and junior Python backend developer.
+I'm Kurban, an IT student and junior Python backend developer.
 
 I focus on building backend systems with an emphasis on
 infrastructure, networking and reliability.
+
+## 🧰 Core Stack
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-323232?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/linux_server-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 🔧 Interests
 - Backend development
@@ -16,14 +24,20 @@ infrastructure, networking and reliability.
 - Production Telegram game bot
 - Homelab & self-hosted infrastructure
 
-## 🧰 Core Stack
+## 🎓 Certifications
 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-323232?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/linux_server-000000?style=for-the-badge&logo=linux&logoColor=white)
+<a href="https://www.credly.com/badges/572bfa37-dfaf-4a75-9d4d-c9c8fa5e7a7d/public_url">
+  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" />
+</a>
+
+<a href="https://www.credly.com/badges/edebdcad-5516-49a5-838d-af208f36feb8/public_url">
+  <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="110" />
+</a>
+
+<a href="https://www.credly.com/badges/50dd8b73-f3d2-4bca-b387-2003271dd8e4/public_url">
+  <img src="https://images.credly.com/size/340x340/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="110" />
+</a>
+
 
 
 <!--
