@@ -1,6 +1,6 @@
 ## 👋 Hi! 
 
-I'm Kurban, an IT student and junior Python backend developer.
+I'm Kurban, a junior Python backend developer and IT student.
 
 I focus on building backend systems with an emphasis on
 infrastructure, networking and reliability.
@@ -18,7 +18,7 @@ infrastructure, networking and reliability.
 - Backend development
 - Networking & infrastructure
 - Cybersecurity
-- Self-hosted systems
+- Self-hosted systems / homelab
 
 ## 🚀 Projects
 - Production Telegram game bot
