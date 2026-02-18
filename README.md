@@ -21,6 +21,7 @@ infrastructure, networking and reliability.
 - Self-hosted systems / homelab
 
 ## 🚀 Projects
+- Open-source CRM for printing houses
 - Production Telegram game bot
 - Homelab & self-hosted infrastructure
 
