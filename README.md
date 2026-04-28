@@ -1,9 +1,8 @@
 ## 👋 Hi! 
 
-I'm Kurban, a junior Python backend developer and IT student.
+I'm Kurban, an IT engineer.
 
-I focus on building backend systems with an emphasis on
-infrastructure, networking and reliability.
+I work across backend, infrastructure and networking, building systems and whatever seems interesting at the moment.
 
 ## 🧰 Core Stack
 
@@ -21,8 +20,8 @@ infrastructure, networking and reliability.
 - Self-hosted systems / homelab
 
 ## 🚀 Projects
-- Open-source CRM for printing houses
-- Production Telegram game bot
+- Real-time TUI network visualizer (NetOrbit)
+- Production Telegram game bot (Sstonks_bot)
 - Homelab & self-hosted infrastructure
 
 ## 🎓 Certifications
