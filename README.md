@@ -7,10 +7,10 @@ I work across backend, infrastructure and networking, building systems and whate
 ## 🧰 Core Stack
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-323232?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux_server-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 🔧 Interests
