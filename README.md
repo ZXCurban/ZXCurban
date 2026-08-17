@@ -1,10 +1,10 @@
-## 👋 Hi! 
+## Hi! 
 
 I'm Kurban, an IT engineer.
 
 I work across backend, infrastructure and networking, building systems and whatever seems interesting at the moment.
 
-## 🧰 Core Stack
+## Core Stack
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -13,18 +13,18 @@ I work across backend, infrastructure and networking, building systems and whate
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux_server-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-## 🔧 Interests
+## Interests
 - Backend development
 - Networking & infrastructure
 - Cybersecurity
 - Self-hosted systems / homelab
 
-## 🚀 Projects
+## Projects
 - Real-time TUI network visualizer (NetOrbit)
 - Production Telegram game bot (Sstonks_bot)
 - Homelab & self-hosted infrastructure
 
-## 🎓 Certifications
+## Certifications
 
 <a href="https://www.credly.com/badges/572bfa37-dfaf-4a75-9d4d-c9c8fa5e7a7d/public_url">
   <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" />
