@@ -1,6 +1,6 @@
 ## Hi! 
 
-I'm Kurban, an IT engineer.
+I'm a Full-Stack IT Engineer.
 
 I work across backend, infrastructure and networking, building systems and whatever seems interesting at the moment.
 
